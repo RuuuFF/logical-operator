@@ -1,7 +1,7 @@
-## Projeto
-Estava relacionado com alguns estudos e resolvi incremetar.
+## ⚙️ Projeto
+Estava relacionado com alguns estudos e resolvi incremetar. :p
 
-## Tecnologias
+## ✈️ Tecnologias
 - HTML
 - CSS
 - JavaScript
