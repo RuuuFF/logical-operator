@@ -1,6 +1,4 @@
-var attempt = 0,
-  hits = 0;
-
+var attempt = 0, hits = 0;
 
 function gameStart() {
   var game = document
